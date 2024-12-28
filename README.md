@@ -2,7 +2,7 @@
 
 如图：
 
-![image-20241229013632581](https://figurebed.yunyat.cloud/imgs/20241229013633.png)
+![pAxtGtI.png](https://s21.ax1x.com/2024/12/29/pAxtGtI.png)
 
 准备好之后运行程序，然后等待自动通关
 
